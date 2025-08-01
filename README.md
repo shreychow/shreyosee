@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about web deve
 
 ## Skills
 - JavaScript, Python, Java
-- React, Node.js, Django
+- SQL
 - Machine Learning, Data Analysis
 
 Feel free to check out my repositories!
